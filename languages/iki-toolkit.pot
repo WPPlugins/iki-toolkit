@@ -1,0 +1,943 @@
+# Copyright (C) 2017 Iki Toolkit
+# This file is distributed under the same license as the Iki Toolkit package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Iki Toolkit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/admin-settings/class-social-profiles-section.php:12, includes/vc/custom-social-profiles/class-custom-social-profiles.php:104
+msgid "Social Profiles"
+msgstr ""
+
+#: includes/admin-settings/class-social-profiles-section.php:23
+msgid "Setup global links to social profiles on various social networks."
+msgstr ""
+
+#: includes/admin-settings/classs-admin-settings.php:103
+msgid "Iki Toolkit options"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:131
+msgid "sub item"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:147
+msgid "Move up"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:161
+msgid "Move down"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:164, includes/menu-walker/class-walker-menu-admin.php:166
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:175
+msgid "URL"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:184
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:193
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:205
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:211
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:220
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:229
+msgid "Description"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:235
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:241
+msgid "Move"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:243
+msgid "Up one"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:245
+msgid "Down one"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:249
+msgid "To the top"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:256
+msgid "Font awesome css icon class"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:263
+msgid "Menu Icon size"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:269
+msgid "Small"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:274
+msgid "Medium"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:279
+msgid "Large"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:284
+msgid "Extra large"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:296
+msgid "Float menu item to"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:302, includes/menu-walker/class-walker-menu-admin.php:395, includes/vc/custom-social-profiles/class-custom-social-profiles.php:46, includes/vc/theme-social-profiles/class-theme-social-profiles.php:88, includes/vc/vc-share-icons/class-share-icons.php:82
+msgid "Left"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:307, includes/menu-walker/class-walker-menu-admin.php:401, includes/vc/custom-social-profiles/class-custom-social-profiles.php:47, includes/vc/theme-social-profiles/class-theme-social-profiles.php:89, includes/vc/vc-share-icons/class-share-icons.php:83
+msgid "Right"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:315
+msgid "Assign Z-index value (number - integer) to the button that has a stamp , so if the stamp is outside of the button , it won't be overlaped by some other top level button menu."
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:318
+msgid " This is totally optional."
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:323
+msgid "Z Index:"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:337
+msgid "Menu Block"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:346
+msgid "Don't use content block"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:358
+msgid "No content blocks found"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:369
+msgid "Content block width equals menu width"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:376
+msgid "Content block width equals theme fixed width"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:382
+msgid "Menu block position"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:388, includes/vc/custom-social-profiles/class-custom-social-profiles.php:48, includes/vc/theme-social-profiles/class-theme-social-profiles.php:90, includes/vc/vc-share-icons/class-share-icons.php:84
+msgid "Center"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:419
+msgid "Insert \"New\" stamp on the menu button ? (Needs to be checked for the stamp to be displayed)"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:426
+msgid "Stamp Text"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:436
+msgid "Stamp Animation"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:444
+msgid "No Animation"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:448
+msgid "Pulse"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:453
+msgid "Pulse Alternative"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:457
+msgid "Swing"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:462
+msgid "Swing Alternative"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:469
+msgid "Stamp position :"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:472
+msgid "If left empty, stamp will appear on the right side of the button text."
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:475
+msgid "Please provide a value toghether with the unit (px,%)"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:479
+msgid "Top (optional) :"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:489
+msgid "Right (optional) :"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:499
+msgid "Bottom (optional):"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:509
+msgid "Left (optional) :"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:519
+msgid "Rotation of the stamp (optional) 0-360 :"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:528
+msgid "Minimum width: Please provide unit toghether with the value. Can be left empty."
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:543
+msgid "Original: %s"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:556, includes/wonder-grid/admin/class-grid-admin.php:222, includes/wonder-grid/admin/class-grid-admin.php:264
+msgid "Remove"
+msgstr ""
+
+#: includes/menu-walker/class-walker-menu-admin.php:564
+msgid "Cancel"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:23, includes/portfolio/class-portfolio-cpt.php:24
+msgid "Portfolio"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:25
+msgid "Add New item"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:26
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:27
+msgid "Edit Portfolio"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:28
+msgid "New Portfolio Item"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:29
+msgid "All Portfolio items"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:30
+msgid "View item"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:31
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:32
+msgid "No portfolio items found"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:33
+msgid "No portfolio items found in trash"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:64, includes/portfolio/class-portfolio-cpt.php:74
+msgid "Portfolio Categories"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:65
+msgid "Portfolio Category"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:66
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:67
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:70
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:71
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:72
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:73
+msgid "New Portfolio Category"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:89, includes/portfolio/class-portfolio-cpt.php:99
+msgid "Portfolio Tags"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:90
+msgid "Portfolio Tag"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:91, includes/team/class-team-member-cpt.php:82
+msgid "Search Tags"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:92, includes/team/class-team-member-cpt.php:83
+msgid "All Tags"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:95
+msgid "Edit Portfolio Tag"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:96
+msgid "Update Portfolio Tag"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:97
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: includes/portfolio/class-portfolio-cpt.php:98
+msgid "New Portfolio Tag"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:22, includes/team/class-team-member-cpt.php:23
+msgid "Team Member"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:24, includes/team/class-team-member-cpt.php:25
+msgid "Add New Team Member"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:26
+msgid "Edit Team Member"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:27
+msgid "New Team Member"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:28
+msgid "All Team Members"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:29
+msgid "View Team Member"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:30
+msgid "Search Team Members"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:31
+msgid "No team members found"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:32
+msgid "No team members found in trash"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:55, includes/team/class-team-member-cpt.php:65
+msgid "Team Member Categories"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:56
+msgid "Team Member Category"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:57
+msgid "Search Team Member Categories"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:58
+msgid "All Team Member Categories"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:61
+msgid "Edit Team Member Category"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:62
+msgid "Update Team Member Category"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:63
+msgid "Add New Team Member Category"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:64
+msgid "New Team Member Category Category"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:80
+msgid " Tean Member Tag"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:81, includes/team/class-team-member-cpt.php:90
+msgid "Team Member Tags"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:86
+msgid "Edit Team Member Tag"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:87
+msgid "Update Team Member Tag"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:88
+msgid "Add New Team Member Tag"
+msgstr ""
+
+#: includes/team/class-team-member-cpt.php:89
+msgid "New Team Member Tag"
+msgstr ""
+
+#: includes/vc/social-utils.php:242
+msgctxt "Text for the link sharing button "
+msgid "Share on "
+msgstr ""
+
+#: includes/wonder-grid/class-wonder-grid-cpt.php:21, includes/wonder-grid/class-wonder-grid-cpt.php:22
+msgid "Wonder Grid"
+msgstr ""
+
+#: includes/wonder-grid/class-wonder-grid-cpt.php:23, includes/wonder-grid/class-wonder-grid-cpt.php:24
+msgid "Add new grid"
+msgstr ""
+
+#: includes/wonder-grid/class-wonder-grid-cpt.php:25
+msgid "Edit grid"
+msgstr ""
+
+#: includes/wonder-grid/class-wonder-grid-cpt.php:26
+msgid "New grid"
+msgstr ""
+
+#: includes/wonder-grid/class-wonder-grid-cpt.php:27
+msgid "All grids"
+msgstr ""
+
+#: includes/wonder-grid/class-wonder-grid-cpt.php:28
+msgid "View grid"
+msgstr ""
+
+#: includes/wonder-grid/class-wonder-grid-cpt.php:29
+msgid "Search grids"
+msgstr ""
+
+#: includes/wonder-grid/class-wonder-grid-cpt.php:30
+msgid "No grids found"
+msgstr ""
+
+#: includes/wonder-grid/class-wonder-grid-cpt.php:31
+msgid "No grids found in trash"
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/class-api-keys-section.php:10
+msgid "API Keys"
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/class-api-keys-section.php:38
+msgid "Setup your API keys for various online services"
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/class-api-keys-section.php:56
+msgid "Test Flickr API key"
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/class-api-keys-section.php:69
+msgid "Test Dribbble API key"
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/class-api-keys-section.php:81
+msgid "Test 500px API key"
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/class-api-keys-section.php:125
+msgid "API key is ok"
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/class-api-keys-section.php:126
+msgid "API key is wrong"
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/class-api-keys-section.php:127
+msgid "Server timeout out, please try again"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:30
+msgid "Content block updated"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:33
+msgid "Content block published"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:36
+msgid "Content block submitted"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:39
+msgid "Content block scheduled"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:42
+msgid "Content block draft updated"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:55
+msgctxt "post type general name"
+msgid "Content Blocks"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:56
+msgctxt "post type singular name"
+msgid "Content Block"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:57
+msgctxt "post type plural name"
+msgid "Content Blocks"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:58
+msgctxt "block"
+msgid "Add New Content Block"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:59
+msgid "Add New Content Block"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:60, includes/blocks/content-blocks/class-content-block-widget.php:69
+msgid "Edit Content Block"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:61
+msgid "New Content Block"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:62
+msgid "View Content Block"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:63
+msgid "Search Content Blocks"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:64
+msgid "No Content Blocks Found"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:65
+msgid "No Content Blocks found in Trash"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:87, includes/blocks/content-blocks/class-content-block-cpt.php:97
+msgid "Content block Categories"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:88
+msgid "Content block Category"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:89
+msgid "Search Content block Categories"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:90
+msgid "All Content block Categories"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:93
+msgid "Edit Content block Category"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:94
+msgid "Update Content block Category"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:95
+msgid "Add New Content block Category"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:96
+msgid "New Content block Category"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:118
+msgid "For content blocks that can be selected for mega menu"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:125
+msgid "For content blocks that can be selected for author pages."
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:132
+msgid "For content blocks that can be selected for portfolio pages."
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:138
+msgid "For content blocks that can be selected for team member pages."
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:144
+msgid "For content blocks that can be selected for Portfolio project section."
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:151
+msgid "For content blocks that can be selected everyhere ( Portfolio, Team Member etc.) Except in Portfolio Project."
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:158
+msgid "For content blocks that can be selected for Header section."
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-cpt.php:166
+msgid "For content blocks that can be selected for Hero section."
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-widget.php:16
+msgid "Displays Content block in a widget"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-widget.php:17
+msgid "Iki Themes Content Block Widget"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-widget.php:41
+msgid "Content Block to Display:"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-widget.php:61
+msgid "No content blocks available"
+msgstr ""
+
+#: includes/blocks/content-blocks/class-content-block-widget.php:92
+msgid "Find"
+msgstr ""
+
+#: includes/vc/custom-social-profiles/class-custom-social-profiles.php:30, includes/vc/theme-social-profiles/class-theme-social-profiles.php:50, includes/vc/vc-share-icons/class-share-icons.php:44
+msgid "Icon Design"
+msgstr ""
+
+#: includes/vc/custom-social-profiles/class-custom-social-profiles.php:33, includes/vc/theme-social-profiles/class-theme-social-profiles.php:53, includes/vc/vc-share-icons/class-share-icons.php:47
+msgid "Classic Dark"
+msgstr ""
+
+#: includes/vc/custom-social-profiles/class-custom-social-profiles.php:34, includes/vc/theme-social-profiles/class-theme-social-profiles.php:54, includes/vc/vc-share-icons/class-share-icons.php:48
+msgid "Classic Light"
+msgstr ""
+
+#: includes/vc/custom-social-profiles/class-custom-social-profiles.php:35, includes/vc/theme-social-profiles/class-theme-social-profiles.php:55, includes/vc/vc-share-icons/class-share-icons.php:49
+msgid "Social Service Color "
+msgstr ""
+
+#: includes/vc/custom-social-profiles/class-custom-social-profiles.php:37, includes/vc/theme-social-profiles/class-theme-social-profiles.php:57, includes/vc/vc-share-icons/class-share-icons.php:51
+msgid "Select the design for the social buttons"
+msgstr ""
+
+#: includes/vc/custom-social-profiles/class-custom-social-profiles.php:43, includes/vc/theme-social-profiles/class-theme-social-profiles.php:85, includes/vc/vc-share-icons/class-share-icons.php:79
+msgid "Icon aligment"
+msgstr ""
+
+#: includes/vc/custom-social-profiles/class-custom-social-profiles.php:55
+msgid "Tooltitp Text"
+msgstr ""
+
+#: includes/vc/custom-social-profiles/class-custom-social-profiles.php:58, includes/vc/theme-social-profiles/class-theme-social-profiles.php:100
+msgid "Note : service name is appended at the end of the tooltip text  "
+msgstr ""
+
+#: includes/vc/custom-social-profiles/class-custom-social-profiles.php:64, includes/vc/theme-social-profiles/class-theme-social-profiles.php:63, includes/vc/vc-share-icons/class-share-icons.php:57
+msgid "Rounded icons"
+msgstr ""
+
+#: includes/vc/custom-social-profiles/class-custom-social-profiles.php:67, includes/vc/custom-social-profiles/class-custom-social-profiles.php:79, includes/vc/theme-social-profiles/class-theme-social-profiles.php:66, includes/vc/theme-social-profiles/class-theme-social-profiles.php:77, includes/vc/vc-share-icons/class-share-icons.php:60, includes/vc/vc-share-icons/class-share-icons.php:71
+msgid "yes"
+msgstr ""
+
+#: includes/vc/custom-social-profiles/class-custom-social-profiles.php:69, includes/vc/custom-social-profiles/class-custom-social-profiles.php:81, includes/vc/theme-social-profiles/class-theme-social-profiles.php:79, includes/vc/vc-share-icons/class-share-icons.php:73
+msgid "Please note that \"rounded\" icon and \"stretch\" icon options are mutually exclusive"
+msgstr ""
+
+#: includes/vc/custom-social-profiles/class-custom-social-profiles.php:76, includes/vc/theme-social-profiles/class-theme-social-profiles.php:74, includes/vc/vc-share-icons/class-share-icons.php:68
+msgid "Stretch icons"
+msgstr ""
+
+#: includes/vc/custom-social-profiles/class-custom-social-profiles.php:107, includes/vc/theme-social-profiles/class-theme-social-profiles.php:42, includes/vc/vc-share-icons/class-share-icons.php:36
+msgid "Social"
+msgstr ""
+
+#: includes/vc/theme-social-profiles/class-theme-social-profiles.php:39
+msgid "Theme Social Profiles"
+msgstr ""
+
+#: includes/vc/theme-social-profiles/class-theme-social-profiles.php:68, includes/vc/vc-share-icons/class-share-icons.php:62
+msgid "Please note that \"rounded\" icon and \"spread\" icon options are mutually exclusive"
+msgstr ""
+
+#: includes/vc/theme-social-profiles/class-theme-social-profiles.php:97
+msgid "Tooltip text"
+msgstr ""
+
+#: includes/vc/theme-social-profiles/class-theme-social-profiles.php:106
+msgid "Select Services"
+msgstr ""
+
+#: includes/vc/vc-share-icons/class-share-icons.php:33
+msgid "Share services"
+msgstr ""
+
+#: includes/vc/vc-share-icons/class-share-icons.php:91
+msgid "Services"
+msgstr ""
+
+#: includes/vc/vc-share-icons/class-share-icons.php:94
+msgid "Check services that you wish to be shown."
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:103
+msgid "Grid Construction"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:114
+msgid "Grid Options"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:137
+msgid "No gaps between cells"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:141
+msgid "If checked, there will be no gaps between cells in the grid."
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:147
+msgid "Grid classes"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:155
+msgid "Extra classes to be added to grid (use space for separation)"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:162
+msgid "Fill Grid"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:166
+msgid "If there is not enough posts or assets to fill all the columns (cells) in the last row, grid will try to modify columns in the last row, so there are no empty columns at the end."
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:169
+msgid "For example, if last row has 4 columns but 2 columns are left empty, grid will modify that row to have only two columns, so it doesn't appear empty."
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:171
+msgid "Please note that this only works if the last row is not a \"mixed row\"."
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:193
+msgid "Total cells in grid : "
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:194
+msgid "Info: Blog is setup to show :"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:200
+msgid "Insert new"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:202
+msgid "Classic Row"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:205
+msgid "or insert new"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:207
+msgid "Mixed Row"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:217, includes/wonder-grid/admin/class-grid-admin.php:259
+msgid "Options for this type of row"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:218, includes/wonder-grid/admin/class-grid-admin.php:260
+msgid "Options"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:219, includes/wonder-grid/admin/class-grid-admin.php:261
+msgid "Duplicate row"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:220, includes/wonder-grid/admin/class-grid-admin.php:262
+msgid "Duplicate"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:221, includes/wonder-grid/admin/class-grid-admin.php:263
+msgid "Remove row"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:225
+msgid "Orientation :"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:228
+msgid "Portrait"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:231
+msgid "Landscape"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:234
+msgid "Square"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:236
+msgid "Columns :"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:245, includes/wonder-grid/admin/class-grid-admin.php:289
+msgid "Close Panel"
+msgstr ""
+
+#: includes/wonder-grid/admin/class-grid-admin.php:267
+msgid "Available Mixed Rows"
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:77
+msgid ""
+"Failure: API token for Flickr service is not set.\n"
+"				 Please setup your access token in wordpress customizer."
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:92
+msgid "Failure: Flickr API Key is incorrect, please check your key."
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:98
+msgid "Failure: user \"%1$s\" not found"
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:103
+msgid "Failure: photoset \"%1$s\" not found"
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:117
+msgid "Success: user \"%1$s\" found."
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:122
+msgid "Success: photoset \"%1$s\" found."
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:152
+msgid ""
+"Failure: API token for Dribbble service is not set.\n"
+"				 Please setup your access token in wordpress customizer."
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:167
+msgid "Failure: user  \"%1$s\" found, but it appears that user doesn't have any shots"
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:173, includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:306
+msgid "Success: user  \"%1$s\" found"
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:182, includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:239, includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:266
+msgid "Failure: user  \"%1$s\" not found"
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:188
+msgid "Failure: API token is wrong."
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:196, includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:259, includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:320
+msgid "Server error or service API unavailable"
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:221
+msgid "Failure: API token for 500px service is not set. Plase setup your access token in wordpress customizer."
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:234, includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:253
+msgid "API key for the service is not correct."
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:241
+msgid "Failure: gallery  \"%1$s\" not found"
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:271
+msgid "Succes: user  \"%1$s\" found"
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:273
+msgid "Succes: gallery  \"%1$s\" found"
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:313
+msgid "Success: \"%1$s\" board found."
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:323
+msgid "Failure: \"%1$s\" user not found."
+msgstr ""
+
+#: includes/admin-settings/api-keys-section/api/class-external-api-data-check.php:326
+msgid "Failure: \"%1$s\" board not found."
+msgstr ""
